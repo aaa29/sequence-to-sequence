@@ -1,4 +1,4 @@
-implementation of sequence to sequence model using simple rnn's with Tensorflow.
+implementation of a sequence to sequence model using simple rnn's with Tensorflow.
 
 the project contains 3 files:
 
